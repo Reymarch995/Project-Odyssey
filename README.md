@@ -30,9 +30,11 @@ Guidelines:
 - No direct copyrighted material.  
 
 ## ⚖️ License
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+This project is licensed under the **MIT** license.  
 This means:
 - ✅ You may share and adapt the content with attribution.  
 - ❌ You may not use it for commercial purposes.  
 
 See [LICENSE](LICENSE) for details.
+
+Long Live Free Media!
