@@ -37,4 +37,4 @@ This means:
 
 See [LICENSE](LICENSE) for details.
 
-Long Live Free Media!
+# Malo periculosam libertatem quam quietum servitium.
